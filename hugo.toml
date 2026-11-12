@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://aphidian.xyz/'
 locale = 'en-US'
-title = 'My New Hugo Project'
+title = 'aphidian.xyz'
 
 [menus]
   [[menus.main]]
